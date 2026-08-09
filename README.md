@@ -1,7 +1,7 @@
 # ScamShield AI 🛡️
 
 > AI-powered scam detection — HackDevengers 1.0
-**🚀 Live Demo:** https://your-vercel-project.vercel.app
+**🚀 Live Demo:** https://scam-shield-ai-woad.vercel.app/
 
 ## Problem
 
